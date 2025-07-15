@@ -1,0 +1,17 @@
+1752498919352	geckodriver	INFO	Listening on 127.0.0.1:49111
+1752498919363	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "47067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMfQyM8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1752498921192	Marionette	INFO	Marionette enabled
+1752498921483	Marionette	INFO	Listening on port 33043
+WebDriver BiDi listening on ws://127.0.0.1:47067
+Read port: 33043
+1752498921725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: Could not move `/tmp/rust_mozprofileMfQyM8/bookmarkbackups/bookmarks-2025-07-14_10_wxYuxiwM9KNhZh_kCO0KoCE7trpVtQcQ1VLCGwip-k4=.jsonlz4' to `/tmp/rust_mozprofileMfQyM8/bookmarkbackups/bookmarks-2025-07-15_10_wxYuxiwM9KNhZh_kCO0KoCE7trpVtQcQ1VLCGwip-k4=.jsonlz4': source file does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: , line 0: NotFoundError: Could not move `/tmp/rust_mozprofileMfQyM8/bookmarkbackups/bookmarks-2025-07-14_10_wxYuxiwM9KNhZh_kCO0KoCE7trpVtQcQ1VLCGwip-k4=.jsonlz4' to `/tmp/rust_mozprofileMfQyM8/bookmarkbackups/bookmarks-2025-07-15_10_wxYuxiwM9KNhZh_kCO0KoCE7trpVtQcQ1VLCGwip-k4=.jsonlz4': source file does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: , line 0: NotFoundError: Could not move `/tmp/rust_mozprofileMfQyM8/bookmarkbackups/bookmarks-2025-07-14_10_wxYuxiwM9KNhZh_kCO0KoCE7trpVtQcQ1VLCGwip-k4=.jsonlz4' to `/tmp/rust_mozprofileMfQyM8/bookmarkbackups/bookmarks-2025-07-15_10_wxYuxiwM9KNhZh_kCO0KoCE7trpVtQcQ1VLCGwip-k4=.jsonlz4': source file does not exist (NS_ERROR_FILE_NOT_FOUND)
+1752527663043	Marionette	INFO	Stopped listening on port 33043
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1449: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: /tmp/rust_mozprofileMfQyM8/protections.sqlite

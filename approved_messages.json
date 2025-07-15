@@ -1,0 +1,94 @@
+[
+  {
+    "lead_name": "Samantha Jain",
+    "channel": "email",
+    "message": "Subject: Affordable Growth for GrowthSpark?\n\nHi Samantha,...",
+    "status": "sent",
+    "timestamp": "2025-07-14T10:33:00.375558",
+    "email": "samantha@growthspark.com"
+  },
+  {
+    "lead_name": "Samantha Jain",
+    "channel": "linkedin",
+    "message": "Hi Samantha, I came across GrowthSpark and was impressed...",
+    "status": "followed-up",
+    "timestamp": "2025-07-10T13:57:07.000000",
+    "follow_up": "Hi Samantha, just checking in on my earlier message...",
+    "follow_up_timestamp": "2025-07-13T17:57:55.519031"
+  },
+  {
+    "lead_name": "Samantha Jain",
+    "channel": "instagram",
+    "message": "Hey Samantha! \ud83d\udc4b Loved your recent post about product launch...",
+    "status": "sent",
+    "timestamp": "2025-07-13T21:44:52.036105"
+  },
+  {
+    "lead_name": "Samantha Jain",
+    "channel": "linkedin",
+    "message": "Hi Samantha, I'm a digital marketing expert focused on helping startups like GrowthSpark achieve significant growth without breaking the bank. Your work at GrowthSpark is impressive, and I'd love to connect and see if there are any opportunities for collaboration. Would you be open to a quick chat sometime next week?",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.127735"
+  },
+  {
+    "lead_name": "Samantha Jain",
+    "channel": "email",
+    "message": "**Subject: Affordable Growth for GrowthSpark?**\n\n**Body:**\n\nHi Samantha,\n\nI'm [Your Name], a digital marketing expert specializing in helping startups like GrowthSpark achieve significant growth without breaking the bank.\n\nI've noticed GrowthSpark's recent activities and believe my strategies in SEO, content marketing, and paid social can help you scale faster.\n\nWould you be open to a quick 15-minute call to explore opportunities?\n\nBest regards,  \n[Your Name]  \n[Your Website/LinkedIn Profile]",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.134147",
+    "email": "samantha@gmail.com"
+  },
+  {
+    "lead_name": "Samantha Jain",
+    "channel": "instagram",
+    "message": "Hey Samantha! \ud83d\udc4b Saw your awesome work at GrowthSpark and wanted to reach out. As a digital marketing expert who helps startups like yours achieve big growth without breaking the bank, I\u2019d love to connect. Would you be open to a quick chat sometime next week?",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.134807"
+  },
+  {
+    "lead_name": "Munazilv1",
+    "channel": "linkedin",
+    "message": "Hi Munazilv1, I'm a digital marketing expert focused on helping startups like SportEdge achieve significant growth without breaking the bank. Your work at SportEdge is impressive, and I'd love to connect and see if there are any opportunities for collaboration. Would you be open to a quick chat sometime next week?",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.135241"
+  },
+  {
+    "lead_name": "Munazilv1",
+    "channel": "email",
+    "message": "**Subject: Affordable Growth for SportEdge?**\n\n**Body:**\n\nHi Munazilv1,\n\nI'm [Your Name], a digital marketing expert specializing in helping startups like SportEdge achieve significant growth without breaking the bank.\n\nI've noticed SportEdge's recent activities and believe my strategies in SEO, content marketing, and paid social can help you scale faster.\n\nWould you be open to a quick 15-minute call to explore opportunities?\n\nBest regards,  \n[Your Name]  \n[Your Website/LinkedIn Profile]",
+    "status": "followed-up",
+    "timestamp": "2025-07-10T23:09:01.135706",
+    "email": "munazilv1@gmail.com",
+    "follow_up": "Hi Munazilv1,\n\nJust wanted to follow up on my earlier message. Let me know if you'd be open to a quick chat \u2014 happy to reconnect if the timing works!\n\nBest,\n[Your Name]",
+    "follow_up_timestamp": "2025-07-14T23:18:24.682248"
+  },
+  {
+    "lead_name": "Munazilv1",
+    "channel": "instagram",
+    "message": "Hey Munazilv1! \ud83d\udc4b Saw your awesome work at SportEdge and wanted to reach out. As a digital marketing expert who helps startups like yours achieve big growth without breaking the bank, I\u2019d love to connect. Would you be open to a quick chat sometime next week?",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.136348"
+  },
+  {
+    "lead_name": "Ananya Rao",
+    "channel": "linkedin",
+    "message": "Hi Ananya, I'm a digital marketing expert focused on helping startups like PlayPrime achieve significant growth without breaking the bank. Your work at PlayPrime is impressive, and I'd love to connect and see if there are any opportunities for collaboration. Would you be open to a quick chat sometime next week?",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.136905"
+  },
+  {
+    "lead_name": "Ananya Rao",
+    "channel": "email",
+    "message": "**Subject: Affordable Growth for PlayPrime?**\n\n**Body:**\n\nHi Ananya,\n\nI'm [Your Name], a digital marketing expert specializing in helping startups like PlayPrime achieve significant growth without breaking the bank.\n\nI've noticed PlayPrime's recent activities and believe my strategies in SEO, content marketing, and paid social can help you scale faster.\n\nWould you be open to a quick 15-minute call to explore opportunities?\n\nBest regards,  \n[Your Name]  \n[Your Website/LinkedIn Profile]",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.137412",
+    "email": "ananya@gmail.com"
+  },
+  {
+    "lead_name": "Ananya Rao",
+    "channel": "instagram",
+    "message": "Hey Ananya! \ud83d\udc4b Saw your awesome work at PlayPrime and wanted to reach out. As a digital marketing expert who helps startups like yours achieve big growth without breaking the bank, I\u2019d love to connect. Would you be open to a quick chat sometime next week?",
+    "status": "sent",
+    "timestamp": "2025-07-14T23:09:01.137957"
+  }
+]

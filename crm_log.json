@@ -1,0 +1,26 @@
+[
+  {
+    "lead_name": "Munazilv1",
+    "email": "munazilv1@gmail.com",
+    "channel": "email",
+    "status": "replied",
+    "notes": "Reply sent with meeting link",
+    "timestamp": "2025-07-14T20:18:12.969309"
+  },
+  {
+    "lead_name": "Munazilv1",
+    "email": "munazilv1@gmail.com",
+    "channel": "email",
+    "status": "replied",
+    "notes": "AI-generated reply approved & sent",
+    "timestamp": "2025-07-14T20:44:33.602122"
+  },
+  {
+    "lead_name": "Ananya Rao",
+    "email": "ananya@playprime.in",
+    "channel": "linkedin",
+    "status": "followed-up",
+    "notes": "Second message sent via LinkedIn",
+    "timestamp": "2025-07-14T22:01:35.807456"
+  }
+]
