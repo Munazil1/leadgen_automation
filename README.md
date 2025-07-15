@@ -44,25 +44,28 @@ An AI-powered, full-stack multichannel lead generation & messaging platform that
 ## 📁 Directory Structure
 
 leadgen/
-├── dashboard.py # Main control center (launch Streamlit tools)
-├── review_dashboard.py # Approve/edit cold messages
-├── reply_review_dashboard.py # Approve & send AI replies
-├── ai_reply_generator.py # Uses Gemini to draft smart replies
-├── mock_lead_importer.py # Loads mock leads + drafts messages
-├── follow_up_scheduler.py # Sends follow-ups automatically
-├── send_all_instagram_dms.py # Instagram message sender (Instagrapi)
-├── linkedin_messages_exports.py # Export LinkedIn messages to CSV
-├── email_sender.py # Email sending via Gmail SMTP
-├── crm_logger.py # Logs activity (sent, replied, follow-up)
-├── reply_handler.py # Matches inbound replies to original outreach
-├── launch_phantom.py # Launches PhantomBuster Phantom
-├── mock_leads.json # Mock data (name, role, email, IG, LinkedIn)
-├── approved_messages.json # Approved cold messages
-├── replied_messages.json # Approved AI replies
-├── reply_drafts.json # AI-drafted replies awaiting review
-├── crm_log.json # CRM history log
-├── .env # Stores secrets and API keys
-└── requirements.txt # Python dependencies
+├── dashboard.py                 # 🎛️ Main control center (launch Streamlit tools)
+├── review_dashboard.py         # ✅ Approve/edit cold messages before sending
+├── reply_review_dashboard.py   # 📬 Review & send AI replies to inbound messages
+├── ai_reply_generator.py       # 🧠 Uses Gemini to draft smart email replies
+├── mock_lead_importer.py       # 📥 Loads mock leads & generates draft messages
+├── follow_up_scheduler.py      # 🔁 Automatically schedules follow-up messages
+├── send_all_instagram_dms.py   # 📸 Sends Instagram messages via Instagrapi
+├── linkedin_messages_exports.py# 📤 Exports LinkedIn messages to CSV (for PhantomBuster)
+├── email_sender.py             # ✉️ Sends email via Gmail SMTP
+├── crm_logger.py               # 🧾 Logs CRM events (sent, replied, followed-up)
+├── reply_handler.py            # 🔄 Matches inbound replies to sent emails
+├── launch_phantom.py           # 🚀 Triggers PhantomBuster automation
+│
+├── mock_leads.json             # 🧪 Sample mock lead data (used for testing)
+├── approved_messages.json      # 📑 Stores approved & sent outreach messages
+├── replied_messages.json       # 📥 Log of replies that were approved & sent
+├── reply_drafts.json           # ✏️ AI-generated reply drafts awaiting approval
+├── crm_log.json                # 📊 Lead interaction log (like a simple CRM)
+│
+├── .env                        # 🔐 Environment variables and API keys
+└── requirements.txt            # 📦 Python dependencies list
+
 
 
 ---
