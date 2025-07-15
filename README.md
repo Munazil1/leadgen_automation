@@ -71,16 +71,17 @@ leadgen/
 
 ## 📦 Setup
 
-### 🔐 `.env` Configuration
+### 🔐 `.env` Configuration (Secrets & API Keys)
 
-``env
-EMAIL_ADDRESS=your_email@gmail.com
-EMAIL_PASSWORD=your_app_password
-GOOGLE_API_KEY=your_gemini_api_key
-IG_USERNAME=your_instagram_username
-IG_PASSWORD=your_instagram_password
-PHANTOMBUSTER_API_KEY=your_phantombuster_key
-PHANTOMBUSTER_PHANTOM_ID=phantom_id_here
+Create a `.env` file in the project root with the following keys:
+
+* `EMAIL_ADDRESS` – Your Gmail address (used for sending emails)
+* `EMAIL_PASSWORD` – Your Gmail **App Password** (not your regular login)
+* `GOOGLE_API_KEY` – Your **Gemini (Google Generative AI)** API key
+* `IG_USERNAME` – Your Instagram username (used with Instagrapi)
+* `IG_PASSWORD` – Your Instagram password or session string
+* `PHANTOMBUSTER_API_KEY` – Your PhantomBuster API key
+* `PHANTOMBUSTER_PHANTOM_ID` – Your LinkedIn Phantom's unique ID
 
 🧪 Run Locally
 💻 To get started locally with this AI LeadGen automation platform:
