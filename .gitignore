@@ -11,3 +11,6 @@ venv/
 
 # Ignore secrets
 .env
+
+# Ignore virtual environments
+instapy-env/
