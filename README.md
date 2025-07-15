@@ -103,16 +103,14 @@ Configure your environment
 
 streamlit run dashboard.py
 
-### 🖥️ Dashboard UI
+### 🖥️ Dashboard UI  
+![Dashboard](images/dashboard.png)
 
-![Dashboard](images/Screenshot from 2025-07-15 15-59-31.png)
+### ✨ AI Reply Review Interface  
+![Reply Review](images/reply_review.png)
 
-### ✨ AI Reply Review Interface
+### 📩 Reply Email Sample  
+![Reply Email](images/reply_email_sample.png)
 
-![Reply Review](images/Screenshot from 2025-07-15 16-00-30.png)
-
-### 🔁 Reply email sample
-
-![Pipeline](images/Screenshot from 2025-07-15 16-02-45.png)
 
 
